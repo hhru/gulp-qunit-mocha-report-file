@@ -1,0 +1,20 @@
+{
+  "name": "gulp-qunit-runner",
+  "version": "1.0.0",
+  "description": "Output qunit results to file",
+  "main": "gulp-qunit-mocha-report-file.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhru/gulp-qunit-mocha-report-file.git"
+  },
+  "keywords": [
+    "qunit",
+    "gulp"
+  ],
+  "author": "Nikita Mostovoy <xnimor@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhru/gulp-qunit-mocha-report-file/issues"
+  },
+  "homepage": "https://github.com/hhru/gulp-qunit-mocha-report-file"
+}
