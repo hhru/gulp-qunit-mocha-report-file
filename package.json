@@ -1,5 +1,5 @@
 {
-  "name": "gulp-qunit-runner",
+  "name": "gulp-qunit-mocha-report-file",
   "version": "1.0.0",
   "description": "Output qunit results to file",
   "main": "gulp-qunit-mocha-report-file.js",
