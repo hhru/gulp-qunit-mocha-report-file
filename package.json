@@ -1,6 +1,6 @@
 {
-  "name": "gulp-qunit-mocha-report-file",
-  "version": "1.0.0",
+  "name": "@hh.ru/gulp-qunit-mocha-report-file",
+  "version": "1.0.1",
   "description": "Output qunit results to file",
   "main": "gulp-qunit-mocha-report-file.js",
   "repository": {
